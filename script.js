@@ -10,11 +10,11 @@ const perguntas = [
         alternativas: [
             {
              texto: "Isso é assustador!",
-             afirmacao: "afirmação"
+             afirmacao: "No início ficou com medo do que essa tecnologia pode fazer. "
         },
         {
              texto: "Isso é maravilhoso!",
-             afirmacao: "afirmação"
+             afirmacao: "Quis saber como usar a IA no seu dia a dia. "
         },
         ],
     },
@@ -26,12 +26,12 @@ const perguntas = [
             {
                 texto:
             "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
-            afirmacao: "afirmação"
+            afirmacao: "Consegui utilizar a IA para buscar informações úteis. "
             },
             {
                 texto:
             "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
-            afirmacao: "afirmação"
+            afirmacao: "Sentiu mais facilidades em utilizar seus próprios recursos para escrever seu trabalho. "
             },
         ],
     },
@@ -43,12 +43,12 @@ const perguntas = [
             {
             texto:
             "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
-             afirmacao: "afirmação"
+             afirmacao: "Vem impulsionando a inovação da área de IA e luta para abrir novos caminhos profissionais com a IA. "
         },
         {
               texto:
             "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
-            afirmacao: "afirmação"
+            afirmacao: "Sua preocupação com as pessoas motivou a criar um grupo de estudos entre trabalhadores para discutir meios de utilização de IA de forma ética. "
         },
         ],
     },
@@ -59,7 +59,7 @@ const perguntas = [
             {
                 texto:
             "Criar uma imagem utilizando uma plataforma de design como o Paint.",
-            afirmacao: "afirmação"
+            afirmacao: "Notou também que muitas pessoas não sabem ainda utilizar as ferramentas tradicionais e decidiu compartilhar seus conhecimentos de design utilizando ferramentas de pintura digital para iniciantes. "
             },
             {
                 texto:
